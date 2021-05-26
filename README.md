@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emstraka
 - 👀 I’m interested in things to do around the city with my kids.
-- 🌱 I’m currently learning to code.
+- 🌱 I’m currently taking classes with Code Louisville.
 - 💞️ I’m looking to collaborate on nothing yet because I don't know what I'm doing!
 - 📫 How to reach me emilykosfeld@gmail.com
 
